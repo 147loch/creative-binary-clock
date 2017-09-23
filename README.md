@@ -4,4 +4,4 @@
 
 ## Files location
 
-Files are located into the **p5-clock** folder.
+Files are located into the **clock-p5** folder.
