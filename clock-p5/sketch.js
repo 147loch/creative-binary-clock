@@ -39,7 +39,7 @@ function draw() {
     } else {
       noFill();
     }
-    ellipse((i*(w+m)+i*(w+m)/4)+supp, w+m, w);
+    ellipse(((i+supp)*(w+m)+(i+supp)*(w+m)/4), w+m, w);
   }
 
   for (let i = mn.length-1; i >= 0; i--) {
